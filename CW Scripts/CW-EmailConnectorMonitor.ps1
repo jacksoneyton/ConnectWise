@@ -2,7 +2,7 @@
 ## If there are messages more than 10 min old it will restart the connectwise email connector
 ## Requires Exchange Web Services Managed API 1.2
 
-$email = "support@labtechconsulting.com"
+$email = "support@arrc.com"
 
 # Credentials
 $username = 'User'
